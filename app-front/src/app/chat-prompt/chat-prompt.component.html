@@ -1,0 +1,6 @@
+<textarea name="" #mytest id="prompt" [(ngModel)]="promptMessage" 
+    (document:keydown)="onKeyDown($event)"
+    (document:keypress)="onKeyPress($event,mytest)"
+    placeholder="write your text">
+</textarea>
+

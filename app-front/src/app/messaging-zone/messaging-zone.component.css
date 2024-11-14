@@ -1,0 +1,11 @@
+.areaMessages {
+    width: 98%;
+    height: 86%;
+    padding: 1% 1%;
+    border-radius: 4px;
+    background-color: aqua;
+    overflow: scroll;
+    overflow-wrap: break-word;
+    margin:0px;
+}
+

@@ -1,0 +1,10 @@
+#prompt {
+    width:98%;
+    height: 10%;
+    padding: 1% 1%;
+    border-radius: 4px;
+    text-align: justify;
+    text-wrap: wrap;
+    overflow: scroll;
+    resize: none;
+}

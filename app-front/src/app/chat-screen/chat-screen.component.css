@@ -1,0 +1,35 @@
+.screenMessage{
+    width: 50vw;
+    height: 92vh;/*95*/
+    border:2px solid black;
+    border-radius: 10px;
+    margin:1vh auto;
+    /* display: flexbox;
+    justify-content:flex-end; */
+    padding: 1%;
+}
+
+
+
+/* .areaMessages{
+    width: 98%;
+    height: 88%;
+    padding: 1% 1%;
+    border-radius: 4px;
+    background-color: aqua;
+    overflow: scroll;
+    text-wrap:wrap;
+}
+.message{
+    width:100%;
+    height:30%;
+    padding: 1% 1%;
+    border-radius: 4px;
+    margin-bottom: 2%;
+    background-color: red;
+} */
+/* .prompt {
+    width: 100%;
+    height: 30%; 
+    background-color: aqua;
+} */

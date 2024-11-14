@@ -1,0 +1,21 @@
+.tabButton{
+    width:40%;
+    height:10%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.button {
+    width: 50%;
+    /* height: 20%; */
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 1em;
+
+}
+
+.button:hover {
+    /* background-color: rgb(245, 243, 240,50%); */
+    font-size: 1.2em;
+}
